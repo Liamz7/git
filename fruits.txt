@@ -1,3 +1,5 @@
 banana
 apple
 CHINA
+Japan
+Korea
